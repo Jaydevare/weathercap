@@ -7,7 +7,7 @@ module.exports = cds.service.impl(function () {
 
         const city = req.data.city;
 
-        const API_KEY =  "61dc4b8754462c9d9b02d18fd67f72f2";
+        const API_KEY =  "";
         'YOUR_API_KEY_HERE';
 
         try {
